@@ -1,0 +1,17 @@
+{
+  "name": "@afarmani/alpha-vantage-library",
+  "version": "0.0.1",
+  "description": "Common Model Library for Alpha Vantage API",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afarmani/alpha-vantage-library.git"
+  },
+  "author": "afarmani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afarmani/alpha-vantage-library/issues"
+  },
+  "homepage": "https://github.com/afarmani/alpha-vantage-library#readme"
+}

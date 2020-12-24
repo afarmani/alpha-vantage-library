@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2015",
+    "declaration": true, //generates .d.ts files (declaration files) get the benefits of typesafety and autocomplete
+    "outDir": "./dist"
+  },
+  "include": [
+    "src/**/*"
+  ]
+}

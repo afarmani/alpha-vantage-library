@@ -1,9 +1,12 @@
 {
   "name": "@afarmani/alpha-vantage-library",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Common Model Library for Alpha Vantage API",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
+  "scripts": {
+    "prepare": "node delete-directory dist && tsc"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/afarmani/alpha-vantage-library.git"

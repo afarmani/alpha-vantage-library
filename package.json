@@ -1,6 +1,6 @@
 {
   "name": "@afarmani/alpha-vantage-library",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Common Model Library for Alpha Vantage API",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
